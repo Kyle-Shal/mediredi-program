@@ -4,6 +4,8 @@ This is a website that serves as a landing page for the Career Accelerator Progr
 
 MediRedi was designed for the purposes of the Bounce Health Innovation Hackathon 2022, in St. John's NL.
 
+A more detailed explanation of the MediRedi Program can be found [here](./mediredi.pdf).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
